@@ -1,5 +1,5 @@
 Wanderlust Hotel Booking Website
-Live at :- [Wanderlust Hotel Booking Website](https://wanderlustt.onrender.com).
+Live at :- [Wanderlust Hotel Booking Website](https://wanderlustt.onrender.com/listings).
 Welcome to the Wanderlust Hotel Booking Website! This application is developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, providing a seamless and user-friendly experience for hotel booking.
 
 
