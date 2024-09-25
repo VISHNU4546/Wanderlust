@@ -6,7 +6,7 @@ Welcome to the Wanderlust Hotel Booking Website! This application is developed u
 Overview
 Wanderlust is a hotel booking website that allows users to explore various hotels, view details, and make reservations. The application provides a visually appealing and intuitive interface for users to easily navigate through available hotels, check room availability, and book their preferred accommodations.
 
-Explore the live website: Wanderlustt Hotel Booking(https://wanderlustt.onrender.com)
+Explore the live website: Wanderlustt Hotel Booking(https://wanderlustt.onrender.com/listings)
 
 Features
 User Authentication: Secure user authentication system to register and log in.
