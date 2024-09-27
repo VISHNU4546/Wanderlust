@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/wanderlustt.git
+git clone https://github.com/Vishnu4546/wanderlustt.git
 Navigate to the project directory:
 
 bash
