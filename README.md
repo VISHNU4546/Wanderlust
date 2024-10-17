@@ -72,4 +72,4 @@ License
 This project is licensed under the MIT License.
 
 
-For inquiries or feedback, please contact us at (https://vishnu-portfolio11.netlify.app/)
+For inquiries or feedback, please contact us at (https://vishnu-kumawat-9f2t.onrender.com/)
