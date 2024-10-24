@@ -4,7 +4,7 @@ const wrapAsync = require("../middleware/wrapAsync");
  const {isLoggedIn,isOwner,validateListing} = require("../middleware/middleware");
 const{index,show,create,edit,update,Delete} = require("../controller/listings");
 const  ExpressError =  require("../middleware/ExpressError");
-const  multer = require("multer");
+const  multer = require("multer");  
 const{storage} = require("../cloudConfig");
 const upload = multer({storage})
 
