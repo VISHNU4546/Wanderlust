@@ -7,7 +7,7 @@ const sampleListings = [
     price: 1500,
     location: "Malibu",
     country: "United States", 
-    geometry: { type: 'Point', coordinates: [-118.6923, 34.0381] },
+    geometry: { type: 'Point', coordinates: [-118.6923, 34.0381] }, 
   },
   {
     title: "Modern Loft in Downtown",
